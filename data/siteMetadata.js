@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: "WoyIsWoy's Blog",
   author: 'Patcharapon N.',
-  headerTitle: "WoyIsWoy's Blog",
+  headerTitle: "",
   description: '',
   language: 'en-us',
   theme: 'system', // system, dark or light
