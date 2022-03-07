@@ -5,9 +5,9 @@ class MyDocument extends Document {
       <Html lang="en" className="scroll-smooth">
         <Head>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
           <link
-            href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@700&family=IBM+Plex+Sans+Thai+Looped&family=Mitr&display=optional"
+            href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@700&family=IBM+Plex+Sans+Thai+Looped&family=Mitr&display=swap"
             rel="stylesheet"
           />
           <link rel="apple-touch-icon" sizes="76x76" href="/static/favicons/apple-touch-icon.png" />
