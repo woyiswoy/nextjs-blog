@@ -2,7 +2,7 @@ const siteMetadata = {
   title: "WoyIsWoy's Blog",
   author: 'Patcharapon N.',
   headerTitle: "",
-  description: '',
+  description: 'Blog by Patcharapon N.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.woyiswoy.com',
@@ -11,11 +11,11 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: '',
-  github: '',
+  github: 'https://github.com/woyiswoy',
   twitter: '',
   facebook: '',
-  youtube: '',
-  linkedin: '',
+  youtube: 'https://www.youtube.com/channel/UCKX-kv4U59t_F6wUHAbIQTg',
+  linkedin: 'https://www.linkedin.com/in/woyiswoy/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
