@@ -2,7 +2,7 @@
 title: Sample Post
 date: '2022-03-08'
 tags: ['markdown', 'code', 'features']
-draft: false
+draft: true
 layout: PostSimple
 summary: Example of a markdown file with code blocks and syntax highlighting
 ---
